@@ -1,0 +1,13 @@
+body {
+    background-image: url(imagens/imagem.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color:  rgb(3, 6, 59);
+    font-family: Arial, sans-serif;
+    font-size: medium;
+    color: rgb(5, 17, 98);
+    text-align: center;
+    padding-top: 60px      
+}
